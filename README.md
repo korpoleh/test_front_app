@@ -1,8 +1,15 @@
-# vue_app
+# Test Project
+
+The main component of this project is located at `src/components/TestApp.vue`.
 
 ## Project setup
 ```
 npm install
+```
+
+## Change dir
+```
+cd vue_app
 ```
 
 ### Compiles and hot-reloads for development
