@@ -5,6 +5,11 @@
 npm install
 ```
 
+## Change dir
+```
+cd vue_app
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
